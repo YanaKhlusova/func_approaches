@@ -13,6 +13,8 @@ Preprocessing is done with tidytext and textstem packages, topic
 modelling – with topicmodels and ldatuning (to find out the optimal
 number of topics).
 
+Two pngs you may find in this repo.
+
 Загрузка пакетов и обработка переменной chapter (изначально она numeric,
 чтобы было удобнее нумеровать главы в таблице во время подготовки
 данных). Датасет загружали через environment -\> Import Dataset -\> From
